@@ -19,7 +19,7 @@ I am a Cloud Developer, which means I deal with the magic happening behind the s
   * HTML/CSS
   * Markdown
 
-### Technologies I know how to use ###
+### 💻 Technologies I know how to use 💻 ###
 
   * Docker
   * GitHub
