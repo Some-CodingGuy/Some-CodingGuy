@@ -21,6 +21,8 @@ I am a Cloud Developer, which means I deal with the magic happening behind the s
 
 ### 📱 Technologies 
 
+  * REST APIs
+  * Database Creation and Management
   * Linux, Windows, MacOS
   * Docker
   * GitHub
