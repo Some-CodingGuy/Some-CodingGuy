@@ -1,6 +1,6 @@
 # Welcome to my Github! #
 
-I am a Cloud Developer, which means I deal with the magic happening behind the scenes of a website. Do you need your website to communicate with a database and ask if your credentials are registered there? That's me. Do you need your webapp to communicate with an api and show a different theme depending on the hour of the day? Yep, that's me. Do you... I think get the idea 😉
+I am a Cloud Developer, which means I deal with the magic happening behind the scenes of a website. Do you need your website to communicate with a database and ask if your credentials are registered there? That's me. Do you need your webapp to communicate with an api and show a different theme depending on the hour of the day? Yep, that's me. Do you... I think you get the idea 😉
 
 
 ### 💻 PROGRAMMING LANGUAGES (and markdown languages) ###
