@@ -28,7 +28,7 @@ I am a Cloud Developer, which means I deal with the magic happening behind the s
     * Jira
     * Bitbucket
     * Confluence
-  * Agile/Scrum
+  * Agile/Scrum (Technically speaking, not a technology, more a methodology of work, but still)
 
 ### 💬 Interests ###
 
