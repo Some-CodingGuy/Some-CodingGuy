@@ -43,3 +43,12 @@ You can contact me through the next platforms:
   * [Instagram](https://www.instagram.com/somecodingguy/)
   * [GitHub](https://github.com/Some-CodingGuy/)
   * To be extended in the future :)
+  *
+  
+### Languages ###
+
+  * Romanian
+  * Spanish
+  * English
+  * Dutch
+  * French
