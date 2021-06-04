@@ -33,6 +33,7 @@ I am a Cloud Developer, which means I deal with the magic happening behind the s
 ### 💬 Interests ###
 
 Lately I've been learning about cybersecurity, from pentesting techniques to networking, and everything in between. At the moment I'm trying to learn to write my own tools, making my own gadgets, etc... 
+For example a Rubber Ducky: a USB device that when connected to a machine will start executing commands without the owner's consent.
   
 ### 📨 How to contact me, and social media ###
 
