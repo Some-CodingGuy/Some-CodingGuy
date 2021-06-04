@@ -34,8 +34,9 @@ I am a Cloud Developer, which means I deal with the magic happening behind the s
 
 Lately I've been learning about cybersecurity, from pentesting techniques to networking, and everything in between. At the moment I'm trying to learn to write my own tools, making my own gadgets, etc... 
   
-### 📨 How to contact me ###
+### 📨 How to contact me, and social media ###
 
 You can contact me through the next platforms:
   * [Instagram](https://www.instagram.com/somecodingguy/)
+  * [GitHub](https://github.com/Some-CodingGuy/)
   * To be extended in the future :)
